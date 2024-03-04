@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana;
+    background-color: #526da2;
+    text-align: center;
+  }
+  
+  button {
+    height: 50px;
+    width: 90px;
+    color: ivory;
+    font-style: bold;
+    background-color: cadetBlue;
+    border-top: 10px solid purple;
+    border-right: 10px solid indigo;
+    border-bottom:  10px solid violet;
+    border-left: 10px solid slateblue;
+    transition-property: background-color;
+  }
+  
+  button:hover {
+    background-color: darkCyan;
+  }
+  
