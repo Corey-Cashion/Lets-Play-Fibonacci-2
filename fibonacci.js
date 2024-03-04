@@ -28,3 +28,5 @@ function Fibonacci() {
 
   document.getElementById("result").innerHTML = fibonacciSequence.join(" "); // Display the sequence
 }
+
+//updated loops and function on march 4th 2024
